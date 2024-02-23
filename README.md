@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MEedhun A K
+- 👋 Hi, I’m Medhun A K
 - 👀 I’m interested in web designing.
 - 🌱 I’m currently learning Java,SQL,HTML,CSS.
 - 💞️ I’m looking to collaborate on ...
